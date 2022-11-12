@@ -1,3 +1,4 @@
+//prints out a christmas tree with a trunk; user input specifies height
 import java.util.Scanner;
 
 public class Full_XmasTree
