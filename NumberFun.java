@@ -1,6 +1,6 @@
 //Suzanne Schouest Honors CSC 1301 Lab
 /*This program takes an input of an integer and lets the user know its number of digits, 
-largest digit, and reverse of the integer. This simply program incorporates the creation of 
+largest digit, and reverse of the integer. This simple program incorporates the creation of 
 methods in a class, basic tasks such as reversing an integer, loops, using user input, etc.
 */
 import java.util.Scanner;
