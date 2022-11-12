@@ -1,9 +1,7 @@
 //Suzanne Schouest CSC 1301 Hon Section Homeowrk 8 Program 2
-
-/*I would submit one zip file with all my homeowork files in it but I don't know 
-if I am going to be able to finish the other assignments because I procrastinated
-so I am uploading as I am finishing the programs*/
-
+/* This program takes a string of characters (a telephone number than can include digits
+ * or letters) and converts them into a telephone number consisting of only digits.
+ */
 import java.util.Scanner;
 public class PhoneNumberDecoder 
 {
