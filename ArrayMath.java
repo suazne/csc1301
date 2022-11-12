@@ -1,6 +1,10 @@
+/* In this program, the user inputs the size of an array, and then populates that
+ * array. the code will then calculate the maximum, average, and all numbers larger
+ * than an additional user input.
+ */
 import java.util.Scanner;
 
-public class Lab7
+public class ArrayMath
 {
    public static int findMax(int[] myList)
    {
