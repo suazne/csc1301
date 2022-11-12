@@ -1,3 +1,7 @@
+/* Here the user inputs two numbers, the computer chooses a random "secret" number,
+ * and the user guesses the number. If they are wrong, the computer tells them how 
+ * far off they are! 
+ */
 import java.util.Scanner;
 import java.util.Random;
 
