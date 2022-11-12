@@ -1,3 +1,4 @@
+//prints out an upside-down half christmas tree
 import java.util.Scanner;
 
 public class Half_XmasTree
