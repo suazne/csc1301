@@ -2,10 +2,9 @@
 /*This program takes an input of an integer and lets the user know its number of digits, 
 largest digit, and reverse of the integer. This simply program incorporates the creation of 
 methods in a class, basic tasks such as reversing an integer, loops, using user input, etc.
-I chose to submit this code with my application to give an idea of the types of assignments 
-I completed at university each week this year*/
+*/
 import java.util.Scanner;
-public class Lab8
+public class NumberFun
 {
    public static int numDigits(int num) //gives number of digits in the integer
    {
