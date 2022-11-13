@@ -1,3 +1,4 @@
+//creates an ascii tree with a trunk; size based on user input
 public class Ascii_Tree
 {
    public static void main(String[] args)
